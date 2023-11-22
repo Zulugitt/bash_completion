@@ -1,6 +1,6 @@
 # bash_completion
 # to activate auto completion command 
-# 1. uncomment lines from file '/etc/bash.bashrc' :
+# 1. uncomment block from file '/etc/bash.bashrc' :
 ## enable bash completion in interactive shells
 ###########################
 #if ! shopt -oq posix; then
